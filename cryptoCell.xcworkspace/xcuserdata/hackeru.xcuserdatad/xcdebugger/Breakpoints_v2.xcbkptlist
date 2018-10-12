@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cryptoCell/Controller/ViewController.swift"
+            timestampString = "561063716.865712"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cryptoCell.ViewController.mainView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIView&gt;"
+                  moduleName = "cryptoCell"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hackeru/Desktop/cryptoCell/cryptoCell/Controller/ViewController.swift"
+                  timestampString = "560978009.823216"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cryptoCell.ViewController.mainView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIView&gt;"
+                  moduleName = "cryptoCell"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hackeru/Desktop/cryptoCell/cryptoCell/Controller/ViewController.swift"
+                  timestampString = "560978009.8307379"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cryptoCell.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; cryptoCell.ViewController"
+                  moduleName = "cryptoCell"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hackeru/Desktop/cryptoCell/cryptoCell/Controller/ViewController.swift"
+                  timestampString = "560978009.848663"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "361">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cryptoCell.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;cryptoCell.ViewController&gt;"
+                  moduleName = "cryptoCell"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hackeru/Desktop/cryptoCell/cryptoCell/Controller/ViewController.swift"
+                  timestampString = "560978009.857841"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "275">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
